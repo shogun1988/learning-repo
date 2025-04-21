@@ -7,4 +7,5 @@ this is for learning purpose
 
 Watch this on my youtube channel
 
-### subheader welkome to my sociale media 
+### subheader 
+welcome to my social media 
